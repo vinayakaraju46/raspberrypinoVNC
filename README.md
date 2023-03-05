@@ -14,9 +14,9 @@ bash rpi-noVNC.sh
 ```
 
 
+# Explanation of the bash script
 
-
-## Accessing rpi cmd over a browser using ttyd
+### Accessing rpi cmd over a browser using ttyd
 
 ttyd is a simple command-line tool for sharing terminal over the web.
 
